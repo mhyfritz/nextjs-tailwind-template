@@ -10,8 +10,6 @@ export default function Home() {
     <>
       <Head>
         <title>Next.js & Tailwind CSS Template</title>
-        <link rel="icon" href="/favicon.ico" />
-        <link rel="stylesheet" href="https://rsms.me/inter/inter.css"></link>
       </Head>
 
       <main className="flex flex-col items-center justify-center min-h-screen p-8 space-y-6 bg-gray-900">
