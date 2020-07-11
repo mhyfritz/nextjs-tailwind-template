@@ -9,8 +9,7 @@
   - [`styled-jsx-plugin-postcss`](https://github.com/giuseppeg/styled-jsx-plugin-postcss)
     to allow [`@apply`](https://tailwindcss.com/docs/extracting-components/#extracting-css-components-with-apply)
     inside [`styled-jsx`](https://github.com/vercel/styled-jsx) tags
-- [`postcss-preset-env`](https://github.com/csstools/postcss-preset-env)
-  (and in extension [`autoprefixer`](https://github.com/postcss/autoprefixer))
+- [`autoprefixer`](https://github.com/postcss/autoprefixer))
 
 ## Getting Started
 

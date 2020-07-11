@@ -13,7 +13,7 @@
     "react-dom": "16.13.1"
   },
   "devDependencies": {
-    "postcss-preset-env": "^6.7.0",
+    "autoprefixer": "^9.8.4",
     "styled-jsx-plugin-postcss": "^2.0.1",
     "tailwindcss": "^1.4.6"
   }
