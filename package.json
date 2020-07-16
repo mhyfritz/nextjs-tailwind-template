@@ -13,8 +13,8 @@
     "react-dom": "16.13.1"
   },
   "devDependencies": {
-    "autoprefixer": "^9.8.4",
+    "autoprefixer": "^9.8.5",
     "styled-jsx-plugin-postcss": "^2.0.1",
-    "tailwindcss": "^1.4.6"
+    "tailwindcss": "^1.5.1"
   }
 }
