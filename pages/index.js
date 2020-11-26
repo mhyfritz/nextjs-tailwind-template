@@ -12,8 +12,8 @@ export default function Home() {
         <title>Next.js & Tailwind CSS Template</title>
       </Head>
 
-      <main className="flex flex-col items-center justify-center min-h-screen p-8 space-y-6 bg-gray-900">
-        <h1 className="text-6xl font-hairline leading-none tracking-tight text-center text-pink-500 uppercase">
+      <main className="flex flex-col items-center justify-center min-h-screen p-8 space-y-6 bg-blueGray-900">
+        <h1 className="text-6xl font-thin tracking-tight text-center text-pink-400 uppercase">
           Hello {planet}!
         </h1>
         <div className="flex space-x-2">
